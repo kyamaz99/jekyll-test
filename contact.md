@@ -1,6 +1,10 @@
 ---
 layout: page
-title: "contact"
+title: contact
 permalink: /contact/
+published: false
 ---
+
+
+## Contact me
 contact a cette adresse
