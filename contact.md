@@ -2,9 +2,9 @@
 layout: page
 title: contact
 permalink: /contact/
-published: false
+published: true
 ---
 
 
 ### Contact me
-contact a cette adresse
+contact a cette adresse ou a l'autr s'il existe
